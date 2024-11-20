@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "title": "Rule 1: Basics of the Game",
+    "description": "Cricket is a game between two teams of 11 players each. The objective of the game is to score more runs than the opponent by hitting the ball and running between the wickets."
+  },
+  {
+    "id": 2,
+    "title": "Rule 2: Bowling the Ball",
+    "description": "The ball is bowled by the bowler from a designated line. An illegal delivery is called a 'no-ball' and awards an extra run to the opposing team."
+  },
+  {
+    "id": 3,
+    "title": "Rule 3: Leg-Bye",
+    "description": "If the ball hits the batsman's body but not the bat, and there was no attempt to play the ball with the bat, runs taken are counted as 'leg-byes'."
+  },
+  {
+    "id": 4,
+    "title": "Rule 4: Out",
+    "description": "A batsman is considered 'out' if the ball hits the stumps, is caught on the fly, or under other specific conditions."
+  },
+  {
+    "id": 5,
+    "title": "Rule 5: Safe Zone",
+    "description": "The batsman must reach the safe zone before the stumps are broken to be considered 'not out'."
+  },
+  {
+    "id": 6,
+    "title": "Rule 6: Wide Ball",
+    "description": "If the bowler delivers the ball too far from the batsman to reach, the umpire calls a 'wide ball', and the opposing team is awarded a run."
+  },
+  {
+    "id": 7,
+    "title": "Rule 7: Over Limitations",
+    "description": "The number of overs in a match is limited by the format of the game. Each bowler can bowl a limited number of overs."
+  },
+  {
+    "id": 8,
+    "title": "Rule 8: Interval Between Innings",
+    "description": "After the completion of the first innings, teams switch roles. The interval between innings is determined by the match regulations."
+  },
+  {
+    "id": 9,
+    "title": "Rule 9: Player Replacement",
+    "description": "Player replacement is only allowed with the umpire's permission and under certain conditions, such as an injury."
+  },
+  {
+    "id": 10,
+    "title": "Rule 10: On-field Conduct",
+    "description": "Players are required to maintain sportsmanlike conduct. Non-compliance may result in warnings or dismissal."
+  },
+  {
+    "id": 11,
+    "title": "Rule 11: DRS (Decision Review System)",
+    "description": "Teams can challenge the umpire's decisions using the video replay system, but the number of such requests is limited."
+  },
+  {
+    "id": 12,
+    "title": "Rule 12: No-ball",
+    "description": "If the bowler oversteps the bowling crease or delivers the ball incorrectly, the umpire declares a 'no-ball', and the opposing team is awarded a run."
+  },
+  {
+    "id": 13,
+    "title": "Rule 13: Protective Equipment",
+    "description": "Batsmen and the wicket-keeper are required to wear protective equipment. Failure to comply may lead to the player's dismissal."
+  },
+  {
+    "id": 14,
+    "title": "Rule 14: Ball Crossing the Boundary",
+    "description": "If the ball crosses the boundary of the field after being hit, 4 or 6 runs are awarded depending on whether the ball touched the ground."
+  },
+  {
+    "id": 15,
+    "title": "Rule 15: Delay of the Game",
+    "description": "Intentional delay of the game by a team may result in penalty runs or other sanctions."
+  },
+  {
+    "id": 16,
+    "title": "Rule 16: Dead Ball",
+    "description": "The umpire declares 'dead ball' in case of unforeseen circumstances, such as a player injury or interference by outsiders."
+  },
+  {
+    "id": 17,
+    "title": "Rule 17: Playing Conditions",
+    "description": "The match must be conducted according to the established conditions, including weather, field conditions, and lighting."
+  },
+  {
+    "id": 18,
+    "title": "Rule 18: Re-bowling",
+    "description": "If the batsman is not ready, the umpire may declare a re-bowl without penalty to the bowler."
+  },
+  {
+    "id": 19,
+    "title": "Rule 19: Ball Replacement",
+    "description": "The ball can be replaced by the umpires under certain conditions, such as if it is damaged."
+  },
+  {
+    "id": 20,
+    "title": "Rule 20: End of the Match",
+    "description": "The match is considered complete when all victory conditions established by the regulations are fulfilled."
+  }
+]
